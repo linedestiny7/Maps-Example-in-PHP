@@ -1,0 +1,29 @@
+eqfeed_callback(
+
+    {
+
+        "features":[
+                    {
+                        "type":"Feature",
+                        "properties":{
+                            "place":"Nama",
+                            "longitude":105.21144416045257,
+                            "latitude":-4.907591427133555,
+
+                            },
+
+    				},
+
+    				{
+                        "type":"Feature",
+                        "properties":{
+                            "place":"Nama 2",
+                            "longitude":105.21472866885297,
+                            "latitude":-4.87808406300615,
+
+                            },
+
+    				},
+
+
+]});
